@@ -3,17 +3,17 @@ import { FaGithub, FaLinkedin, FaFileAlt } from "react-icons/fa";
 export default function SocialLinks({ size = "1.5rem", color = "#60a5fa" }) {
   const links = [
     {
-      href: "https://github.com/your-github",
+      href: "https://github.com/Prathik9",
       label: "GitHub",
       icon: <FaGithub />,
     },
     {
-      href: "https://linkedin.com/in/your-linkedin",
+      href: "https://www.linkedin.com/in/prathik-n-332486347/",
       label: "LinkedIn",
       icon: <FaLinkedin />,
     },
     {
-      href: "/resume.pdf",
+      href: "../../public/Prathik_Resume.pdf",
       label: "Resume",
       icon: <FaFileAlt />,
     },
