@@ -13,7 +13,7 @@ export default function SocialLinks({ size = "1.5rem", color = "#60a5fa" }) {
       icon: <FaLinkedin />,
     },
     {
-      href: "/Prathik-N-MP.pdf",
+      href: "Prathik-N-MP.pdf",
       label: "Resume",
       icon: <FaFileAlt />,
     },
